@@ -1,5 +1,5 @@
 {
-    "self_mode": true,
+    "self_mode": false,
     "anti_delete": false,
     "anti_call": true,
     "autorespon": true,
@@ -7,8 +7,8 @@
     "auto_welcome": true,
     "auto_leave": true,
 	"prefix": ".",
-	"ownerNumber": "62887435047326",
-	"ownername": "ZeeoneOfc",
+	"ownerNumber": "6287708770684",
+	"ownername": "Rehan",
 	"botname":"LordUserbot",
 	"thumbnail":"LordUserbot_Thumb_1.jpg",
 	"fakethumb":"LordUserbot_Thumb_1.jpg",
